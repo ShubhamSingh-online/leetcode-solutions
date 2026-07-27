@@ -1,16 +1,20 @@
-LeetCode Solutions 🚀
+# LeetCode Solutions 🚀
 
-A curated collection of my LeetCode solutions in Java, organized by topic and focused on writing clean, efficient, and interview-ready code.
+A curated collection of my **LeetCode** solutions in **Java**, organized by topic and focused on writing clean, efficient, and interview-ready code.
 
-This repository documents my journey of strengthening Data Structures & Algorithms (DSA) skills through consistent problem-solving and learning optimal approaches.
+This repository documents my journey of strengthening **Data Structures & Algorithms (DSA)** skills through consistent problem-solving and learning optimal approaches.
 
-📌 About
-💻 Language: Java
-📚 Platform: LeetCode
-🧩 Organized by DSA topics
-⚡ Includes optimized solutions
-📝 Time & Space Complexity wherever applicable
-📂 Repository Structure
+## 📌 About
+
+* 💻 **Language:** Java
+* 📚 **Platform:** LeetCode
+* 🧩 Organized by DSA topics
+* ⚡ Includes optimized solutions
+* 📝 Time & Space Complexity wherever applicable
+
+## 📂 Repository Structure
+
+```text
 leetcode-solutions/
 ├── Arrays/
 ├── Strings/
@@ -30,3 +34,4 @@ leetcode-solutions/
 ├── Backtracking/
 ├── Bit Manipulation/
 └── README.md
+```
