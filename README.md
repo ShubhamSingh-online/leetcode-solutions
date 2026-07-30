@@ -14,7 +14,9 @@ This repository documents my journey of strengthening **Data Structures & Algori
 
 ## 📂 Repository Structure
 
+```text
 leetcode-solutions/
+│
 ├── Arrays/
 ├── Math/
 ├── Strings/
@@ -35,3 +37,4 @@ leetcode-solutions/
 ├── Bit Manipulation/
 ├── Recursion/
 └── README.md
+```
